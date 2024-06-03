@@ -14,7 +14,7 @@ function Page5() {
                 <p style={{ marginTop: '84px', marginLeft: '30px', fontFamily: 'Poppins', fontWeight: 600, fontSize: '32px', lineHeight: '48px' }}>Zippyy Tracking</p>
             </div>
 
-            <Card style={{ marginLeft: '16px', marginRight: '16px', marginBottom: '16px', marginTop: '16px', width: '1408px', height: '1045px' }}>
+            <Card style={{ marginLeft: '16px', marginRight: '16px', marginBottom: '16px', marginTop: '16px', width: '98%', height: 'auto' }}>
                 <div>
                     <div style={{ display: 'flex', flexDirection: 'row' }}>
                         <div>
@@ -23,7 +23,7 @@ function Page5() {
                             <Page1 />
                         </div>
                         <div>
-                            <div style={{ border: '1px solid #D9D9D9', borderRadius: '16px', width: '693px', paddingLeft: '20px', marginLeft: '59px', height: '736px' }}>
+                            <div style={{ border: '1px solid #D9D9D9', borderRadius: '16px', width: '92%', paddingLeft: '20px', marginLeft: '59px', height: '736px' }}>
                                 <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', marginTop: '120px', textAlign: 'center' }}>
                                     <img src={packing} alt="nologo" />
 
@@ -31,7 +31,7 @@ function Page5() {
                                 </div>
                             </div>
                             <AddressBox />
-                            <div style={{ position: 'absolute', height: '18px', top: '990px', left: '1236px' }}>Powered by Zippyy</div>
+                            <div style={{ height: '18px', display: 'flex', justifyContent: 'flex-end' }}>Powered by Zippyy</div>
                         </div>
                     </div>
 

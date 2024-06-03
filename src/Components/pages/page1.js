@@ -24,12 +24,10 @@ function Page1() {
                         width: '240px',
                         height: '36px',
                         fontFamily: 'Poppins',
-                        left: '58px',
-                        top: '881px',
-                        position: 'absolute',
                         display: 'flex',
                         alignItems: 'center',
-                        justifyContent: 'center'
+                        justifyContent: 'center',
+                        marginTop: '531px'
                     }}
                 >
                     Back
